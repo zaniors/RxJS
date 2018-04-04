@@ -1,0 +1,1 @@
+import "../scripts/class/lesson-1";
