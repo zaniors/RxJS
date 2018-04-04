@@ -1,21 +1,21 @@
 {
-  "name": "es6-basic",
+  "name": "rxjs-note",
   "version": "1.0.0",
-  "description": "how to understand es6",
+  "description": "rxjs学习笔记",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MishyJan/es6-basic.git"
+    "url": "git+https://github.com/MishyJan/RxJS.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MishyJan/es6-basic/issues"
+    "url": "https://github.com/MishyJan/RxJS/issues"
   },
-  "homepage": "https://github.com/MishyJan/es6-basic#readme",
+  "homepage": "https://github.com/MishyJan/RxJS#readme",
   "devDependencies": {
     "@babel/register": "^7.0.0-beta.40",
     "babel-core": "^6.26.0",
